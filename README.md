@@ -8,14 +8,14 @@ Welcome to my GitHub portfolio! I'm Samuel Perryman, a cybersecurity professiona
 
 ## 🛠️ Skills
 
-* Security Operations \& Incident Response
-* Endpoint Detection \& Response (EDR)
+* Security Operations \& Awareness
+* Threat Detection \& Response (EDR)
 * Vulnerability Management \& Patching
 * Windows, Linux, macOS Administration
 * IDS/IPS, SIEM, and Threat Intelligence
-* PowerShell \& Bash Scripting
+* PowerShell \& Linux CLI
 * Cloud Systems \& Virtualization
-* Ticketing Systems \& Client Support
+* Network Mapping \& Security
 
 
 
@@ -24,8 +24,8 @@ Welcome to my GitHub portfolio! I'm Samuel Perryman, a cybersecurity professiona
 **Master of Science in Cybersecurity Technology**  
 University of Maryland Global Campus
 
-**Bachelor of Arts in Communications**  
-University of Alabama at Birmingham
+**Bachelor of Arts in Psychologys**  
+Lehigh University
 
 
 
@@ -33,7 +33,7 @@ University of Alabama at Birmingham
 
 * CompTIA Security+
 * SOC Operations Analyst I Training (BCR Cyber)
-
+* Microsoft's Career Essentials in Cybersecurity
 
 
 
@@ -42,3 +42,4 @@ University of Alabama at Birmingham
 
 * 📧 Email: [skmap711@gmail.com](mailto:skmap711@gmail.com)
 * 🔗 LinkedIn: [linkedin.com/in/samperrymanjr](https://www.linkedin.com/in/samperrymanjr)/
+* 🔗 Website: [https://www.samperrymancybersecurity.com](samperrymancybersecurity.com)
