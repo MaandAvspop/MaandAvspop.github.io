@@ -1,4 +1,3 @@
-# Hello World!
 # 🚧 Site Under Construction 🚧
 Thank you for visiting! This GitHub site is currently under construction and will be available soon.
 We're working hard to bring you valuable content and resources—please check back shortly!
