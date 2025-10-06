@@ -42,4 +42,4 @@ Lehigh University
 
 * 📧 Email: [skmap711@gmail.com](mailto:skmap711@gmail.com)
 * 🔗 LinkedIn: [linkedin.com/in/samperrymanjr](https://www.linkedin.com/in/samperrymanjr)/
-* 🔗 Website: [https://www.samperrymancybersecurity.com](samperrymancybersecurity.com)
+* 🔗 Website: [samperrymancybersecurity.com](samperrymancybersecurity.com)
