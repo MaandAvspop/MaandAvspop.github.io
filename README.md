@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Welcome to my GitHub portfolio! I'm Samuel Perryman, a cybersecurity professional with a Master of Science in Cybersecurity Technology and a strong foundation in IT operations, threat detection, and endpoint management. I bring over 17 years of leadership experience from collegiate coaching, now applied to collaborative and client-focused cybersecurity environments.
+Welcome to my GitHub portfolio! I'm Samuel Perryman, a goal-oriented professional with a Master of Science in Cybersecurity Technology and a strong foundation in IT operations, threat detection, and endpoint management. I bring over 17 years of leadership experience from collegiate coaching, now applied to collaborative and client-focused cybersecurity environments.
 
 
 
