@@ -1,5 +1,5 @@
 
-<div align=\"center\">
+
 
 [![Email](https://img.shields.io/badge/Email-skmap711%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmap711@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samperrymanjr)
